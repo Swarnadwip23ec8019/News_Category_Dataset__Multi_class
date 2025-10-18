@@ -4,3 +4,4 @@ seaborn
 joblib
 streamlit
 tensorflow
+scikit-learn
